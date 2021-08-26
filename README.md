@@ -7,14 +7,14 @@ It also give two examples for each language.
 If we use translator.py python  Script with appropriate arguments, it will save all the results in text file with name "word".txt in 
 directory where we run script.
 
-The main python file "translator.py" take three arguments 
-first argument = language in which we input our word
-    we can choose from -
-    "arabic","german", "english","spanish","french","hebrew","japanese","dutch","polish","portuguese","romanian", "russian","turkish"
-second argument = langyage in which we want to translate our word
-     "arabic","german", "english","spanish","french","hebrew","japanese","dutch","polish","portuguese","romanian", "russian","turkish"
-     or we can use "all" to translate in all languages.
-Third argument: word in language specified in first argument
+The main python file "translator.py" take three arguments:
+
+    first argument = language in which we input our word,we can choose from -
+        "arabic","german", "english","spanish","french","hebrew","japanese","dutch","polish","portuguese","romanian", "russian","turkish"
+    second argument = langyage in which we want to translate our word
+         "arabic","german", "english","spanish","french","hebrew","japanese","dutch","polish","portuguese","romanian", "russian","turkish"
+         or we can use "all" to translate in all languages.
+    Third argument: word in language specified in first argument
 
 example:
     />python translator.py english all hello
