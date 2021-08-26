@@ -18,8 +18,9 @@ Third argument: word in language specified in first argument
 
 example:
     />python translator.py english all hello
+
 result:
-    
+
     arabic Translations:
     مرحبا
 
