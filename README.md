@@ -4,6 +4,8 @@ Translator is a python based App (also script add) to translate a given word to 
 It uses https://context.reverso.net/translation/ API to translate word.
 It also give two examples for each language.
 
+The python app is using open source python framework "Kivy".
+
 If we use translator.py python  Script with appropriate arguments, it will save all the results in text file with name "word".txt in 
 directory where we run script.
 
